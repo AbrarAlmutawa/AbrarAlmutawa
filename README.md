@@ -3,7 +3,7 @@
 ### An Artificial Intelligence student passionate about exploring how Ai can solve real life problems
 
 - 🌱 I'm currently learning **computer vision using PyTorch**
-
+- 🤖 i'm interested in **Machine learning, Deep learning, AI agents, Data science**
 - ⚡ Fun fact **I enjoy learning math concepts and machine that helps me understand machine learning algorithms**
 
 <h3 align="left">Connect with me:</h3>
