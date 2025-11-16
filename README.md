@@ -5,6 +5,7 @@
 - 🌱 I'm currently learning **computer vision using PyTorch**
 - 🤖 i'm interested in **Machine learning, Deep learning, AI agents, Data science**
 - ⚡ Fun fact **I enjoy learning math concepts and machine that helps me understand machine learning algorithms**
+- 📧 Email: Abrarhalmutawa@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
